@@ -1,0 +1,6 @@
+.v-navigation-drawer {
+    z-index: 1010 !important;
+    top: 0 !important;
+    height: 100vh !important;
+    width: 100% !important;
+}
